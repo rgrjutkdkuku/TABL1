@@ -2,10 +2,9 @@
 
 using namespace std;
 /*
-Бондаренко Александр
-Группа СОИ-21-21
-1 курс 
-Задание #1
+Bondarenko Alex
+Group COI-21-1
+Exercise #1
 */
 
 int main()
